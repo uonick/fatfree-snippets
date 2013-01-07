@@ -1,8 +1,14 @@
 <snippet>
 	<content><![CDATA[
-<check if="{{ ${1:isset(@success)} }}">
+<check if="{{ isset(@${1:value})}}">
 	<true>
+		<!-- Insert your html here-->
+		${2:html}
 	</true>
+	<false>
+		<!-- Insert your html here-->
+		${3:html}
+	</false>
 </check>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
