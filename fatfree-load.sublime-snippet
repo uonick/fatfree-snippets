@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+\$${1:param}->load(array('${2:request}= ?', '${3:param}'));
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>fload</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>Fat-Free load after mapper</description>
+</snippet>

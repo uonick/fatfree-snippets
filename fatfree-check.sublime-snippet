@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<check if="{{ ${1:isset(@success)} }}">
+	<true>
+	</true>
+</check>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>check</tabTrigger>
+	<description>Check Template</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	
+</snippet>
