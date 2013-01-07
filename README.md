@@ -1,4 +1,4 @@
-# Fat Free Framework snippets for Sublime Text 2
+# Fat-Free Framework snippets for Sublime Text 2
 
 ## How to install:
 * [Get a ZIP file] (https://github.com/uonick/fatfree-snippets/archive/master.zip)
@@ -44,6 +44,6 @@ Press `Ctrl+Shift+P`, type `fat` and select snippet
 
 ## Links:
 
-[Fat Free Framework](https://github.com/bcosca/fatfree) on GitHub
+[Fat-Free Framework](https://github.com/bcosca/fatfree) on GitHub
 
 
