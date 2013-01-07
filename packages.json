@@ -1,0 +1,20 @@
+{
+	"schema_version": "0.1",
+	"packages": [
+		{
+			"name": "Fat-Free snippets",
+			"description": "Fat-Free snippets for Sublime Text 2",
+			"author": "uonick",
+			"homepage": "https://github.com/uonick/fatfree-snippets",
+			"last_modified": "2013-01-08 01:51:00",
+			"platforms": {
+				"*": [
+					{
+						"version": "0.1",
+						"url": "https://github.com/uonick/dimmed/packages.json"
+					}
+				]
+			}
+		}
+	]
+}
