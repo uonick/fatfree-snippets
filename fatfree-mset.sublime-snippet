@@ -2,7 +2,7 @@
 	<content><![CDATA[
 \$f3->mset(
 	array(
-		'${1:param}' => '${2:value}',
+		'${1:key}' => '${2:value}',
 	)
 );
 ]]></content>

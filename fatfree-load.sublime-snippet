@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\$${1:param}->load(array('${2:request}= ?', '${3:param}'));
+\$${1:param}->load(array('${2:request}= ?', '${3:value}'));
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>fload</tabTrigger>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\$${1:string}=new DB\SQL\Mapper(\$db,'${2:table}');
+\$${1:name}=new DB\SQL\Mapper(\$db,'${2:table}');
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>fmapper</tabTrigger>

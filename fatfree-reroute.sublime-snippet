@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\$f3->reroute('${1:route}/');
+\$f3->reroute('${1:route}');
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>freroute</tabTrigger>
