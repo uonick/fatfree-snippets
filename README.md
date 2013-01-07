@@ -37,6 +37,7 @@ Press `Ctrl+Shift+P`, type `fat` and select snippet
 
 ## Links:
 [Wiki] (https://github.com/uonick/fatfree-snippets/wiki/Snippets)
+
 [Fat-Free Framework](https://github.com/bcosca/fatfree) on GitHub
 
 
