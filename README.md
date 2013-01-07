@@ -11,14 +11,14 @@
 ### Just type:
 
 `fset` => 
-`
+```
 $f3->set(key,value);
-`
+```
 
 `fget` => 
-`
+```
 $f3->get('param');
-`
+```
 etc..
 
 ### OR
@@ -26,13 +26,23 @@ Press `Ctrl+Shift+P`, type `fat` and select snippet
 
 ### Snippets:
 `fget`
+
 `fset`
+
 `fclear`
+
 `fexists`
+
 `fmset`
+
 `fload`
+
 `frender`
+
 `freset`
+
 `fmapper`
+
 `fcheck`
+
 
