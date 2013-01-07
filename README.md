@@ -1,7 +1,7 @@
 # Fat-Free Framework snippets for Sublime Text 2
 
 ## How to install:
-* [Get a ZIP file] (https://github.com/uonick/fatfree-snippets/archive/master.zip)
+* [Get a ZIP file] (https://github.com/uonick/fatfree-snippets/zipball/master)
 * Unzip the contents of the distribution package to `%sublime_path%`/Data/Packages/User/
 
 ## How to use:
