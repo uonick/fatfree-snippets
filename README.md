@@ -1,21 +1,18 @@
-# Fat Free Framework snippets for Sublime Text 2
-## Links:
-
-[Fat Free Framework](https://github.com/bcosca/fatfree) on GitHub
+# Fat-Free Framework snippets for Sublime Text 2
 
 ## How to install:
-### [Get a ZIP] (https://github.com/uonick/fatfree-snippets/archive/master.zip)
-### Unzip the contents of the distribution package to %sublime_path%/Data/Packages/User/
+* [Get a ZIP file] (https://github.com/uonick/fatfree-snippets/archive/master.zip)
+* Unzip the contents of the distribution package to `%sublime_path%`/Data/Packages/User/
 
 ## How to use:
 ### Just type:
 
-`fset` => 
+* `fset` => 
 ```
 $f3->set(key,value);
 ```
 
-`fget` => 
+* `fget` => 
 ```
 $f3->get('param');
 ```
@@ -25,24 +22,28 @@ etc..
 Press `Ctrl+Shift+P`, type `fat` and select snippet
 
 ### Snippets:
-`fget`
+* `fget`
 
-`fset`
+* `fset`
 
-`fclear`
+* `fclear`
 
-`fexists`
+* `fexists`
 
-`fmset`
+* `fmset`
 
-`fload`
+* `fload`
 
-`frender`
+* `frender`
 
-`freset`
+* `freset`
 
-`fmapper`
+* `fmapper`
 
-`fcheck`
+* `fcheck`
+
+## Links:
+
+[Fat-Free Framework](https://github.com/bcosca/fatfree) on GitHub
 
 
