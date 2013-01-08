@@ -1,10 +1,11 @@
 <snippet>
 	<content><![CDATA[
-\$f3->exists('${1:param}');
+if (\$${1:value}->dry())
+    echo 'No record matching criteria';
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>fexists</tabTrigger>
+	<tabTrigger>fdry</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
-	<description>Fat-Free exists param</description>
+	<description>fdry</description>
 </snippet>

@@ -1,10 +1,12 @@
 <snippet>
 	<content><![CDATA[
-\$f3->exists('${1:param}');
+<repeat group="{{ @${1:array} }}" value="{{ @${2:item} }}">
+    <a href="${3:href}">${4:itemname}</a>
+</repeat>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>fexists</tabTrigger>
+	<tabTrigger>frepeat</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
-	<description>Fat-Free exists param</description>
+	<description>Fat-Free repeat</description>
 </snippet>

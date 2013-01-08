@@ -6,5 +6,5 @@
 	<tabTrigger>fmapper</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
-	<description>Fatfree mapper snippet</description>
+	<description>Fat-Free mapper snippet</description>
 </snippet>
