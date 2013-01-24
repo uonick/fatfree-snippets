@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+\$f3->write(${1:filename},${2:data},${3:append(true|false)});
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>fwrite</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>Fat-Free write data to file</description>
+</snippet>
