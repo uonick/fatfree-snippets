@@ -11,7 +11,7 @@ Once you install Package Control, restart ST2 and bring up the Command Palette (
 
 **Without Git:** Download the latest source from [GitHub](https://github.com/uonick/fatfree-snippets) and copy the Fat-Free Snippets folder to your Sublime Text "Packages" directory.
 
-**With Git:** Clone the repository in your Sublime Text "Packages" directory:
+**With Git:** Clone the repository in your Sublime Text "Packages/User" directory:
 
     git clone https://github.com/uonick/fatfree-snippets.git
 
@@ -20,15 +20,15 @@ The "Packages" directory is located at:
 
 * OS X:
 
-        ~/Library/Application Support/Sublime Text 2/Packages/
+        ~/Library/Application Support/Sublime Text 2/Packages/User
 
 * Linux:
 
-        ~/.config/sublime-text-2/Packages/
+        ~/.config/sublime-text-2/Packages/User
 
 * Windows:
 
-        %APPDATA%/Sublime Text 2/Packages/
+        %APPDATA%\Sublime Text 2\Packages\User
 
 ## How to use:
 ### Just type:
