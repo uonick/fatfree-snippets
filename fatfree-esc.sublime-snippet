@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+\$f3->esc(${1:data})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>fesc</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>Fat-Free Escape</description>
+</snippet>
