@@ -1,9 +1,8 @@
 <snippet>
 	<content><![CDATA[
 <check if="{{ isset(@${1:value})}}">
-	<true>
-		<!-- Insert your html here-->
-		${2:html}
+	<true>		
+		${2:Insert your html here}
 	</true>
 </check>
 ]]></content>

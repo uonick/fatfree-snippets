@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\$f3->base64(${1:data},${2:type});
+\$f3->base64(${1:data},${2:type})
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>fbase</tabTrigger>
