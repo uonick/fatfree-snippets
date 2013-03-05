@@ -33,12 +33,12 @@ The "Packages" directory is located at:
 ## How to use:
 ### Just type:
 
-* `fset` => 
+* `fse` [TAB]
 ```
 $f3->set(key,value);
 ```
 
-* `fget` => 
+* `fge` [TAB]
 ```
 $f3->get('param');
 ```
@@ -51,6 +51,6 @@ Press `Ctrl+Shift+P`, type `fat` and select snippet
 
 [Fat-Free Framework](https://github.com/bcosca/fatfree) on GitHub
 
-[Wiki (aviable snippets)] (https://github.com/uonick/fatfree-snippets/wiki/Snippets)
+[Aviable snippets:] (https://github.com/uonick/fatfree-snippets/wiki/Snippets)
 
 
