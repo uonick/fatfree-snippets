@@ -1,7 +1,7 @@
-# Fat-Free Framework snippets for Sublime Text 2
+# Fat-Free Framework snippets for Sublime Text 2/3
 
 
-Installing
+Install
 ----------
 **With the Package Control plugin:** The easiest way to install Fat-Free Snippets is through Package Control, which can be found at this site: http://wbond.net/sublime_packages/package_control
 
@@ -51,6 +51,6 @@ Press `Ctrl+Shift+P`, type `fat` and select snippet
 
 [Fat-Free Framework](https://github.com/bcosca/fatfree) on GitHub
 
-[Aviable snippets:] (https://github.com/uonick/fatfree-snippets/wiki/Snippets)
+[Aviable snippets] (https://github.com/uonick/fatfree-snippets/wiki/Snippets)
 
 
