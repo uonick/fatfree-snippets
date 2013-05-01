@@ -10,7 +10,7 @@ The easiest way to install Fat-Free Snippets is through Package Control, which c
 
 
 ### Without Git:
-Download the latest source from [GitHub](https://github.com/uonick/fatfree-snippets) and copy the Fat-Free Snippets folder to your Sublime Text "Packages" directory.
+[Download] (https://github.com/uonick/fatfree-snippets/archive/master.zip) the latest source from GitHub  and copy the Fat-Free Snippets folder to your Sublime Text "Packages" directory.
 
 ###With Git:
 Clone the repository in your Sublime Text "Packages/User" directory:
