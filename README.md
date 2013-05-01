@@ -47,10 +47,10 @@ etc..
 ### OR
 Press `Ctrl+Shift+P`, type `fat` and select snippet
 
+## Aviable snippets:
+
+[Wiki Page] (https://github.com/uonick/fatfree-snippets/wiki/Snippets)
+
 ## Links:
 
 [Fat-Free Framework](https://github.com/bcosca/fatfree) on GitHub
-
-[Aviable snippets] (https://github.com/uonick/fatfree-snippets/wiki/Snippets)
-
-
