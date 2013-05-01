@@ -8,6 +8,7 @@ class ${1:Classname} extends ${2:Parent}{
 		\$db=\$this->db;
 
 		# Code
+		${3:Code}
 
 		# Render
 		echo Template::instance()->render('${4:Template}.html');
