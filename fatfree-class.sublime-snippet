@@ -1,14 +1,14 @@
 <snippet>
   <content><![CDATA[
 class ${1:Classname} extends ${2:Parent}{
-	function ${3:methodname}(){
+	function ${3:method}(){
 
 		# Defines
 		\$f3=\$this->framework;
 		\$db=\$this->db;
 
 		# Code
-		${3:Code}
+		${4:Code}
 
 		# Render
 		echo Template::instance()->render('${4:Template}.html');
