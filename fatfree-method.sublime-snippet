@@ -2,14 +2,14 @@
 	<content><![CDATA[
 function ${1:funcname}(){
 
-		# Defines
-		\$f3=\$this->framework;
-		\$db=\$this->db;		
-		
-		# Code here
-		$2
+	# Defines
+	\$f3=\$this->framework;
+	\$db=\$this->db;		
+	
+	# Code here
+	$2
 
-	}
+}
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>ffunc</tabTrigger>
