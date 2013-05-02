@@ -3,7 +3,7 @@
 function beforeRoute(){
  	
 	# Defines
-	\$f3=$this->framework;
+	\$f3=\$this->framework;
 	\$db=\$this->db;
 	
 	# Code	
