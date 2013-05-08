@@ -1,7 +1,9 @@
 <snippet>
 	<content><![CDATA[
-if (\$${1:value}->dry())
-    echo 'No record matching criteria';
+if (\$${1:value}->dry()) {
+	${2:code}
+}
+    
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>fdry</tabTrigger>
