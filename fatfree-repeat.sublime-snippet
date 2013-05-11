@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-<repeat group="{{ @${1:array} }}" value="{{ @${2:item} }}">
-    <a href="${3:href}">${4:itemname}</a>
+<repeat group="@${1:array}" value="@${2:item}">
+    <a href="${3:item.href}">${4:item.name}</a>
 </repeat>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
