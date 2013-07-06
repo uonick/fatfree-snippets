@@ -6,8 +6,6 @@ Install
 ### With the Package Control plugin:
 The easiest way to install Fat-Free Snippets is through Package Control, which can be found at this site: http://wbond.net/sublime_packages/package_control
 
-![img](https://raw.github.com/uonick/dimmed/gh-pages/images/sta.gif)
-
 [Video](http://www.youtube.com/watch?v=XaCn6m1DYE8)
 
 ### Without Git:
