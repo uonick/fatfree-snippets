@@ -1,17 +1,16 @@
-## Fat-Free Framework snippets for Sublime Text 2/3
+![Fat-Free Framework snippets form Sublime Text 2/3] (https://raw.github.com/uonick/dimmed/gh-pages/images/ffst.png "Fat-Free Framework snippets form Sublime Text 2/3")
 
-
-Install
-----------
-### With the Package Control plugin:
+#### Install
+---
+#### With the Package Control plugin:
 The easiest way to install Fat-Free Snippets is through Package Control, which can be found at this site: http://wbond.net/sublime_packages/package_control
 
 [Video](http://www.youtube.com/watch?v=XaCn6m1DYE8)
 
-### Without Git:
+#### Without Git:
 [Download] (https://github.com/uonick/fatfree-snippets/archive/master.zip) the latest source from GitHub  and copy the Fat-Free Snippets folder to your Sublime Text "Packages" directory.
 
-###With Git:
+#### With Git:
 Clone the repository in your Sublime Text "Packages/User" directory:
 
     git clone https://github.com/uonick/fatfree-snippets.git
@@ -33,28 +32,31 @@ The "Packages" directory is located at:
 
         %APPDATA%\Sublime Text 2\Packages\User
 
-## How to use:
-### Just type:
+#### How to use:
+---
+##### Just type:
 
-* `fse` [TAB]
+* `fse` `[TAB]`
 ```
 $f3->set(key,value);
 ```
 
-* `fge` [TAB]
+* `fge` `[TAB]`
 ```
 $f3->get('param');
 ```
 etc..
 
-### OR
+#### OR
 Press `Ctrl+Shift+P`, type `fat` and select snippet
 
-## Aviable snippets:
+#### Aviable snippets:
+---
 
 [Wiki Page] (https://github.com/uonick/fatfree-snippets/wiki/Snippets)
 
-## Links:
+#### Links:
+---
 
 [Fat-Free Framework](https://github.com/bcosca/fatfree) on GitHub
 
