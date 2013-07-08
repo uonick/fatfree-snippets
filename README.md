@@ -57,3 +57,5 @@ Press `Ctrl+Shift+P`, type `fat` and select snippet
 ## Links:
 
 [Fat-Free Framework](https://github.com/bcosca/fatfree) on GitHub
+
+[Fat-Free Homepage] (http://fatfreeframework.com/home)
