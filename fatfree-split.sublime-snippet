@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+\$f3->split(${1:data})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>fsplit</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>Fat-Free split string to array</description>
+</snippet>
