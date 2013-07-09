@@ -11,7 +11,7 @@ class ${1:Classname} extends ${2:Parent}{
 		${4:Code}
 
 		# Render
-		echo Template::instance()->render('${4:Template}.html');
+		echo Template::instance()->render('${5:Template}.html');
 	}
 	
 }
