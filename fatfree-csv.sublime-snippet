@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-$f3->csv(${1:array})
+\$f3->csv(${1:array})
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>fcsv</tabTrigger>
