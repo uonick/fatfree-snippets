@@ -1,9 +1,8 @@
 <snippet>
 	<content><![CDATA[
 if (\$${1:value}->dry()) {
-	${2:code}
-}
-    
+	# ${2:not_found}
+}  
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>fdry</tabTrigger>
