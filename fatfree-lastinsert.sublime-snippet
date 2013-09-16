@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+\$db->lastinsertid()
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>flast</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>Fat-Free insert (last insert id)</description>
+</snippet>
