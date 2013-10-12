@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\$f3->get('${1:param}')
+\$f3->get('${1:key}')
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>fget</tabTrigger>

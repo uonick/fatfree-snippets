@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\$db->exec("${1:SELECT * FROM `table`}", ${2:array( 1=>'')})
+\$db->exec("SELECT * FROM `${1:table}`", array( 1=>'$2'))
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>fexec</tabTrigger>

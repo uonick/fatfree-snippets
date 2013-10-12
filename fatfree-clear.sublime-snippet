@@ -6,5 +6,5 @@
 	<tabTrigger>fclear</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
-	<description>Fatfree clear param</description>
+	<description>Fat-Free clear key</description>
 </snippet>

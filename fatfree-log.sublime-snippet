@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\$db->log();
+\$db->log()
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>flog</tabTrigger>

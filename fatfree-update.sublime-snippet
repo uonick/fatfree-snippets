@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\$${1:name}->update();
+\$${1:db}->update();
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>fupd</tabTrigger>

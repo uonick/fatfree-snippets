@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-class ${1:Controller_name} {
+class ${1:Controller} {
 
 	protected
 		\$framework,

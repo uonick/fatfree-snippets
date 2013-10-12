@@ -6,7 +6,7 @@ function ${1:name}(){
 	\$f3=\$this->framework;
 	\$db=\$this->db;	
 	
-	$2
+	${2:Code}
 }
 
 ]]></content>
@@ -14,5 +14,5 @@ function ${1:name}(){
 	<tabTrigger>ffunc</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
-	<description>Fat-Free insert method</description>
+	<description>Fat-Free method</description>
 </snippet>
