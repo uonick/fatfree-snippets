@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-$f3->push(${1:from},${2:what});
+\$f3->push(${1:from},${2:what});
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>fpush</tabTrigger>
