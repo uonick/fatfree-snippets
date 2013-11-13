@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-\$f3->cast()
+\$f3->cast(${1:object})
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>fcast</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<description>Fat-Free cast</description>
+	<description>Fat-Free convert obj2array</description>
 </snippet>
