@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\$f3->cast(${1:object})
+\$mapper->cast()
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>fcast</tabTrigger>
