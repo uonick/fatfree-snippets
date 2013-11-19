@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\$mapperobj->type(\$string)
+]]></content>
+	<tabTrigger>ftype</tabTrigger>
+	<description>Fat-Free Get PHP type equivalent of PDO constant</description>
+</snippet>
