@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-if (\$${1:value}->dry()) {
+if (\${1:object}->dry()) {
 	# ${2:not_found}
-}  
+}
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>fdry</tabTrigger>
