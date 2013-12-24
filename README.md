@@ -49,4 +49,4 @@ or
 Press `Ctrl+Shift+P`, type `fat` and select snippet
 
 ## Aviable snippets:
-[Snippets] (https://github.com/uonick/fatfree-snippets/wiki/Snippets)
+[Snippets] (https://github.com/uonick/fatfree-snippets/wiki/Aviable-Snippets)
