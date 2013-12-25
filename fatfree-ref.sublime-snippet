@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\$f3->ref('${1:array_name}')
+\$f3->ref('${1:string}')
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>fref</tabTrigger>
