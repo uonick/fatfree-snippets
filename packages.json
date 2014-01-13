@@ -10,7 +10,7 @@
 			"platforms": {
 				"*": [
 					{
-						"version": "1.7.2",
+						"version": "1.7.3",
 						"url": "https://github.com/uonick/fatfree-snippets/packages.json"
 					}
 				]
