@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-$f3->route('GET /',
+\$f3->route('GET /',
     function() {
         echo '${1:Hello}';
     }
