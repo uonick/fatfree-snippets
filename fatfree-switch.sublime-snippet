@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<switch expr="{{ scalar expr }}">
+    <case value="{{ scalar @value|expr }}" break="{{ bool TRUE|FALSE }}">
+        text-block
+    </case>
+</switch>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>fswitch</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<description>Fat-Free switch expr</description>
+</snippet>
