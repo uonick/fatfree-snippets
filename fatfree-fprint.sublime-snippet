@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+{{ print_r(@${1:value})}}
+]]></content>
+	<tabTrigger>fprint</tabTrigger>
+	<description>Fat-Free print_r() in template</description>
+</snippet>
