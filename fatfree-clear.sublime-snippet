@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\$${1:mapper-obj}->clear('${1:param}')
+\$${1:mapper-obj}->clear('${2:param}')
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>fclear</tabTrigger>
