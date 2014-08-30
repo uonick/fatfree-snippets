@@ -1,13 +1,11 @@
 <snippet>
 	<content><![CDATA[
-function ${1:name}(){
-
-	# Defines
-	\$f3=\$this->framework;
-	\$db=\$this->db;	
 	
-	${2:Code}
+	
+function ${1:name}(\$f3,\$params){	
+	 // ${2:code}
 }
+
 
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
