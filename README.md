@@ -34,12 +34,12 @@ The "Packages" directory is located at:
 ## How to use:
 ##### Just type:
 
-* `fse` `[TAB]`
+* `fset` `[TAB]`
 ```php
 $f3->set(key,value);
 ```
 
-* `fge` `[TAB]`
+* `fget` `[TAB]`
 ```php
 $f3->get('value');
 ```
