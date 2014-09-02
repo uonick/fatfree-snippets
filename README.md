@@ -47,6 +47,7 @@ etc..
 
 or
 Press `Ctrl+Shift+P`, type `fat` and select snippet
+or `Shift + Command + P` on OS X
 
 ## Aviable snippets:
 [Snippets] (https://github.com/uonick/fatfree-snippets/wiki/Aviable-Snippets)
