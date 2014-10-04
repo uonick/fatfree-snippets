@@ -2,7 +2,7 @@
 	<content><![CDATA[
 <check if="{{ isset(@${1:value})}}">
 	<true>		
-		${2:Insert your html here}
+		${2:html}
 	</true>
 </check>
 ]]></content>

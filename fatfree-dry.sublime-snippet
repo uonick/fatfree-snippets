@@ -1,7 +1,9 @@
 <snippet>
 	<content><![CDATA[
 if (${1:object}->dry()) {
-	# ${2:if not_found}
+	# ${2:not_found}
+} else {
+	# ${3:found}
 }
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

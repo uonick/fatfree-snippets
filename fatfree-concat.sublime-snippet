@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-$f3->concat('${1:key_one}','${2:key_two}');
+$f3->concat(${1:key_one},${2:key_two});
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>fconcat</tabTrigger>
