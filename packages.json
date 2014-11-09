@@ -6,11 +6,11 @@
 			"description": "Fat-Free snippets for Sublime Text 2/3",
 			"author": "uonick",
 			"homepage": "https://github.com/uonick/fatfree-snippets",
-			"last_modified": "2014-10-12 21:43:00",
+			"last_modified": "2014-11-09 17:14:00",
 			"platforms": {
 				"*": [
 					{
-						"version": "1.8.1",
+						"version": "1.8.2",
 						"url": "https://github.com/uonick/fatfree-snippets/packages.json"
 					}
 				]
