@@ -1,24 +1,54 @@
 <snippet>
   <content><![CDATA[
-class ${1:Classname} extends ${2:Parent}{
-	function ${3:method}(){
 
-		# Defines
-		\$f3=\$this->framework;
-		\$db=\$this->db;
+<?php
 
-		# Code
-		${4:Code}
 
-		# Render
-		echo Template::instance()->render('${5:Template}.html');
+class ${1:ClassName} extends ${2:Parent}{
+
+	function ${3:index}(){
+		${4:code}
 	}
-	
+
+
+
+
+
+	function get() {
+
+	}
+
+
+
+
+
+	function post() {
+
+	}
+
+
+
+
+
+	function put() {
+
+	}
+
+
+
+
+
+	function delete() {
+
+	}
+
+
+
 }
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>fclass</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
+	<scope>source.php</scope>
 	<description>Fat-Free new Class template</description>
 </snippet>

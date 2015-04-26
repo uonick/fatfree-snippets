@@ -1,18 +1,18 @@
 <snippet>
 	<content><![CDATA[
 function beforeRoute(){
- 	
+
 	# Defines
 	\$f3=\$this->framework;
 	\$db=\$this->db;
-	
-	# Code	
+
+	# Code
 	${1:CodeHere}
 }
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>fbefore</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
+	<scope>source.php</scope>
 	<description>Fat-Free Before route</description>
 </snippet>

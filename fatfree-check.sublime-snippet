@@ -1,14 +1,13 @@
 <snippet>
 	<content><![CDATA[
 <check if="{{ isset(@${1:value})}}">
-	<true>		
+	<true>
 		${2:html}
 	</true>
 </check>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>fcheck</tabTrigger>
+	<scope>text.html</scope>
 	<description>Check Template</description>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	
 </snippet>
