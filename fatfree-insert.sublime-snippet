@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\$mapper_obj->insert();
+\${1:mapper}->insert();
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>finsert</tabTrigger>
