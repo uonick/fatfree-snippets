@@ -1,4 +1,3 @@
-### Database snippets:
 * [fbegin] (https://github.com/uonick/fatfree-snippets/blob/master/fatfree-begin.sublime-snippet#L3)
 * [fclear](https://github.com/uonick/fatfree-snippets/blob/master/fatfree-clear.sublime-snippet#L6)
 * [fcount] (https://github.com/uonick/fatfree-snippets/blob/master/fatfree-dbcount.sublime-snippet#L6)
