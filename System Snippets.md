@@ -1,4 +1,3 @@
-### System snippets:
 * [fbefore](https://github.com/uonick/fatfree-snippets/blob/master/fatfree-beforeroute.sublime-snippet#L3)
 * [fcontr](https://github.com/uonick/fatfree-snippets/blob/master/fatfree-controller.sublime-snippet#L3)
 * [fclean](https://github.com/uonick/fatfree-snippets/blob/master/fatfree-clean.sublime-snippet#L3)
