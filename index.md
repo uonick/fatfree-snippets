@@ -31,7 +31,7 @@ The "Packages" directory is located at:
 
         Sublime Text 2(3)\Data\Packages\User\Fat-Free snippets
 
-## How to use:
+## How to use
 ##### Just type:
 
 * `fset` `[TAB]`
