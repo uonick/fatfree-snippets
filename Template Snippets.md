@@ -1,4 +1,3 @@
-### Template snippets:
 * [frender](https://github.com/uonick/fatfree-snippets/blob/master/fatfree-template.sublime-snippet#L6)
 * [fcheck](https://github.com/uonick/fatfree-snippets/blob/master/fatfree-check.sublime-snippet#L9)
 * [frepeat](https://github.com/uonick/fatfree-snippets/blob/master/fatfree-repeat.sublime-snippet#L8)
