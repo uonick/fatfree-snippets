@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-\$f3->pop('${1:array_name}');
-]]></content>
-	<tabTrigger>fpop</tabTrigger>
-	<description>Fat-Free remove last element</description>
-</snippet>

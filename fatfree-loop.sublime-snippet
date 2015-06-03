@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<loop from="{{ @i=0 }}" to="{{ @i < 3 }}" step="{{ @i++ }}">
-	value: {{ @i }}
-</loop>
-]]></content>
-	<tabTrigger>floop</tabTrigger>
-	<scope>text.html</scope>
-</snippet>

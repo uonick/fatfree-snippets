@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-\$f3->unserialize(${1:argument});
-]]></content>
-	<tabTrigger>funser</tabTrigger>
-	<description>Fat-Free unserialize method</description>
-</snippet>

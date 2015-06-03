@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-\$f3->serialize(${1:argument});
-]]></content>
-	<tabTrigger>fser</tabTrigger>
-	<description>Fat-Free serialize method</description>
-</snippet>
