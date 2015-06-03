@@ -51,3 +51,5 @@ or `Shift + Command + P` on OS X
 
 ## Aviable snippets:
 [Documentation] (http://fatfree-snippets.rtfd.org/)
+
+![status](https://readthedocs.org/projects/pip/badge/?version=latest)
