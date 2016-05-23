@@ -50,6 +50,6 @@ Press `Ctrl+Shift+P`, type `fat` and select snippet
 or `Shift + Command + P` on OS X
 
 ## Aviable snippets:
-[Documentation] (http://fatfree-snippets.rtfd.org/)
+[Documentation (temp)] (https://github.com/uonick/fatfree-snippets/wiki/Aviable-Snippets)
 
 ![status](https://readthedocs.org/projects/pip/badge/?version=latest)
