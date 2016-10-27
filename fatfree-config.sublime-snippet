@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\$f3->config('${1:congig.ini}');
+\$f3->config('${1:config.ini}');
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>fconfig</tabTrigger>
