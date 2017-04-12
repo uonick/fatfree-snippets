@@ -1,6 +1,6 @@
 Fat-Free framework snippets
 ============================
-[Fat-Free Framework](http://fatfreeframework.com/home) ([GitHub] (https://github.com/bcosca/fatfree)) snippets for [Sublime Text 2/3](http://www.sublimetext.com/).
+[Fat-Free Framework](http://fatfreeframework.com/home) ([GitHub](https://github.com/bcosca/fatfree)) snippets for [Sublime Text 2/3](http://www.sublimetext.com/).
 
 ## Install
 #### With the Package Control:
@@ -50,6 +50,6 @@ Press `Ctrl+Shift+P`, type `fat` and select snippet
 or `Shift + Command + P` on OS X
 
 ## Aviable snippets:
-[Documentation (temp)] (https://github.com/uonick/fatfree-snippets/wiki/Aviable-Snippets)
+[Documentation](https://github.com/uonick/fatfree-snippets/wiki/Aviable-Snippets)
 
 ![status](https://readthedocs.org/projects/pip/badge/?version=latest)
