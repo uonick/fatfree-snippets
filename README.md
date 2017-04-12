@@ -4,7 +4,7 @@ Fat-Free framework snippets
 
 ## Install
 #### With the Package Control:
-The easiest way to install Fat-Free Snippets is through Package Control, which can be found at [this site] (https://sublime.wbond.net)
+The easiest way to install Fat-Free Snippets is through Package Control, which can be found at [this site](https://sublime.wbond.net)
 Once you install Package Control, restart ST2/3 and bring up the Command Palette (`Command+Shift+P` on OS X, `Ctrl+Shift+P` on Linux/Windows). Select "Package Control: Install Package", wait while Package Control fetches the latest package list, then select Fat-Free Snippets when the list appears. The advantage of using this method is that Package Control will automatically keep Fat-Free Snippets up to date with the latest version.
 #### Without Git:
 
