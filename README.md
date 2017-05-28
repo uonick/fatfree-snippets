@@ -8,7 +8,7 @@ The easiest way to install Fat-Free Snippets is through Package Control, which c
 Once you install Package Control, restart ST2/3 and bring up the Command Palette (`Command+Shift+P` on OS X, `Ctrl+Shift+P` on Linux/Windows). Select "Package Control: Install Package", wait while Package Control fetches the latest package list, then select Fat-Free Snippets when the list appears. The advantage of using this method is that Package Control will automatically keep Fat-Free Snippets up to date with the latest version.
 #### Without Git:
 
-[Download] (https://github.com/uonick/fatfree-snippets/archive/master.zip) the latest source from GitHub  and copy the Fat-Free Snippets folder to your Sublime Text "Packages" directory.
+[Download](https://github.com/uonick/fatfree-snippets/archive/master.zip) the latest source from GitHub  and copy the Fat-Free Snippets folder to your Sublime Text "Packages" directory.
 
 #### With Git:
 
